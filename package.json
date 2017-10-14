@@ -1,6 +1,6 @@
 {
   "name": "pug-base-layout",
-  "version": "0.1.1",
+  "version": "0.2.0",
   "description": "Base customizable Pug layout",
   "license": "MIT",
   "main": "index.pug",
