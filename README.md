@@ -96,6 +96,11 @@ $analytics = undefined
 // @optional
 $typekit = undefined
 
+// List of body classes.
+// @type {string[]}
+// @optional
+$bodyClass = undefined
+
 // Function to load manifest files. By default it just returns the passed in
 // path prefixed with `/`.
 // @type {Function}
