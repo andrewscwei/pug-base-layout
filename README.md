@@ -127,8 +127,3 @@ This layout handles all the essential meta tags for you. Use this [H5BP favicon 
 - `apple-touch-icon-precomposed.png`
 - `apple-touch-icon-144x144-precomposed.png`
 - `browserconfig.xml`
-
-
-## License
-
-This software is released under the [MIT License](http://opensource.org/licenses/MIT).
