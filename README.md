@@ -1,4 +1,4 @@
-# pug-base-layout
+# pug-base-layout ![](https://img.shields.io/maintenance/no/2017)
 
 This is a basic extensible Pug layout.
 
